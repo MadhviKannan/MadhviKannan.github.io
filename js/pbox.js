@@ -60,7 +60,7 @@ var defaultProj = function(n){
 	proj3Name = "Presented a poster at AACR 2023";
 	proj4Name = "IOT based intelligent wearable device";
 	proj5Name = "Tumor Organoid Immune Interactions";
-	proj6Name = "Let's make a website about myself! Nothing narcissistic about that.";
+	proj6Name = "Let's make a website about myself!";
 
 	proj1Cat = "Publication";
 	proj2Cat = "Patent";
