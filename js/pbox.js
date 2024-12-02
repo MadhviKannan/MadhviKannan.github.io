@@ -1,18 +1,18 @@
 var displayDescription = function(n){
 	s1 = "pbox-";
 
-	proj1Desc = "Generated text commands from image and text inputs using Generative Adversarial Networks. Find out more in the link below!";
-	proj2Desc = "Developed a custom neural network to predict the prices of expensive paintings using images from Blouin ArtInfo";
-	proj3Desc = "Implemented LAW's filter based Texture Classification and Segmentation algorithms using OpenCV and C++ on USC SIPI's dataset";
+	proj1Desc = "A Pan-Cancer Organoid Platform for Precision Medicine";
+	proj2Desc = "Artificial fluorescent image systems and methods";
+	proj3Desc = "Using computer vision to resolve proliferative dynamics within therapeutic responses in large scale screens of patient derived models";
 	proj4Desc = "Developed an IOT based intelligent wearable device for the safety and security of women and girl children";
-	proj5Desc = "Performed some basic image recognition using the LeNet 5 architecture on the CIFAR-10 dataset using Tensorflow's tflearn library";
+	proj5Desc = "Applying machine vision to empower preclinical development of cell engager and adoptive cell therapeutics in patient-derived organoid models of solid tumors";
 	proj6Desc = "Tinkered a bit with some web development frameworks like Bootstrap and JavaScript to get this website to look presentable! (I hope)";
 
-	proj1Link = "https://github.com/MadhviKannan/CSCI-599-Text-to-Image-Synthesis";
-	proj2Link = "http://www.blouinartinfo.com/";
-	proj3Link = "https://github.com/MadhviKannan/CSCI-569-ImageProcessing/tree/master/EE_569_Homework3";
+	proj1Link = "https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00846-9";
+	proj2Link = "https://patents.google.com/patent/US11561178B2/en";
+	proj3Link = "https://aacrjournals.org/cancerres/article/83/7_Supplement/5402/720578";
 	proj4Link = "https://ieeexplore.ieee.org/document/7808003/";
-	proj5Link = "https://github.com/MadhviKannan/CSCI-569-ImageProcessing/tree/master/EE_569_Homework4";
+	proj5Link = "https://jitc.bmj.com/content/9/Suppl_2/A70";
 	proj6Link = "https://github.com/MadhviKannan/";
 
 	selectedProjDesc = "";
@@ -55,18 +55,18 @@ var defaultProj = function(n){
 
 	s1 = "pbox-";
 
-	proj1Name = "GAiNing some knowledge with GAN's";
-	proj2Name = "How much would I buy this painting for?";
-	proj3Name = "Let's segment and classify!";
+	proj1Name = "Co First Authored a Tempus based publication in Cell Reports";
+	proj2Name = "Lead Inventor of patent highlighting my work in Artificial Image Generation using GANs";
+	proj3Name = "Presented a poster at AACR 2023";
 	proj4Name = "IOT based intelligent wearable device";
-	proj5Name = "The getting-to-know-the-subject-better starter pack!";
+	proj5Name = "Tumor Organoid Immune Interactions";
 	proj6Name = "Let's make a website about myself! Nothing narcissistic about that.";
 
-	proj1Cat = "Deep Learning";
-	proj2Cat = "Deep Learning";
-	proj3Cat = "Image Processing";
-	proj4Cat = "Must check this one out!";
-	proj5Cat = "Deep Learning";
+	proj1Cat = "Publication";
+	proj2Cat = "Patent";
+	proj3Cat = "Poster";
+	proj4Cat = "Publication";
+	proj5Cat = "Poster";
 	proj6Cat = "Web Development";
 
 	selectedProjName = "";
